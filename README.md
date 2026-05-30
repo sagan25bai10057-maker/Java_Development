@@ -1,4 +1,4 @@
-# Java Programming Internship - CodeAlpha
+# Java Programming 
 
 This repository contains the projects developed during my Java Programming Internship at CodeAlpha. The assignments focus on core Java concepts, Object-Oriented Programming (OOP), robust exception handling, and interactive user interfaces.
 
